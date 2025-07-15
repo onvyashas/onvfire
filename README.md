@@ -31,7 +31,6 @@ This is a web-based **firewall rule manager** built using a React frontend (host
    {
      "port": 80
    }
-Here’s a clean **Markdown README** format for all the details you provided:
 
 ---
 
@@ -128,5 +127,4 @@ and returns the current firewall rule list, displayed in a readable terminal for
 
 ---
 
-✅ **Done!**
-If you’d like, I can also make this into a ready-to-use `README.md` file for your repo. Just say so!
+
