@@ -1,7 +1,9 @@
 from flask import Flask, request, jsonify
+from flask_cors import CORS
 import subprocess
 
 app = Flask(__name__)
+CORS(app)  # Allow all origins (or configure it as needed)
 
 @app.route('/block-port', methods=['POST'])
 def block_port():
